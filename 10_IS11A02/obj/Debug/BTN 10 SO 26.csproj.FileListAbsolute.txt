@@ -1,0 +1,56 @@
+C:\Users\admin\Desktop\VDC#\BTN 10 SO 26\bin\Debug\BTN 10 SO 26.exe
+C:\Users\admin\Desktop\VDC#\BTN 10 SO 26\bin\Debug\BTN 10 SO 26.pdb
+C:\Users\admin\Desktop\VDC#\BTN 10 SO 26\obj\Debug\BTN 10 SO 26.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\VDC#\BTN 10 SO 26\obj\Debug\BTN_10_SO_26.Properties.Resources.resources
+C:\Users\admin\Desktop\VDC#\BTN 10 SO 26\obj\Debug\BTN 10 SO 26.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\VDC#\BTN 10 SO 26\obj\Debug\BTN 10 SO 26.exe
+C:\Users\admin\Desktop\VDC#\BTN 10 SO 26\obj\Debug\BTN 10 SO 26.pdb
+C:\Users\admin\Desktop\VDC#\BTN 10 SO 26\obj\Debug\BTN_10_SO_26.frmCongViec.resources
+C:\Users\admin\Desktop\VDC#\BTN 10 SO 26\obj\Debug\BTN_10_SO_26.frmMain.resources
+C:\Users\admin\Desktop\VDC#\BTN 10 SO 26\obj\Debug\BTN_10_SO_26.frmNhaCungCap.resources
+C:\Users\admin\Desktop\VDC#\BTN 10 SO 26\obj\Debug\BTN_10_SO_26.frmHoaDonDatHang.resources
+C:\Users\admin\Desktop\VDC#\BTN 10 SO 26\obj\Debug\BTN_10_SO_26.frmHoaDonNhap.resources
+C:\Users\admin\Desktop\VDC#\BTN 10 SO 26\obj\Debug\BTN_10_SO_26.frmTimKiemSanPham.resources
+C:\Users\admin\Desktop\VDC#\BTN 10 SO 26\obj\Debug\BTN 10 SO 26.csproj.ResolveComReference.cache
+C:\Users\admin\Desktop\VDC#\BTN 10 SO 26\obj\Debug\BTN_10_SO_26.frmBaoCaoDSSPBanDuoc.resources
+C:\Users\admin\Desktop\VDC#\BTN 10 SO 26\obj\Debug\BTN_10_SO_26.frmTimKiemHDB.resources
+C:\Users\admin\Desktop\VDC#\BTN 10 SO 26\obj\Debug\BTN_10_SO_26.frmBaoCaoDSHDVaTTBan.resources
+C:\Users\admin\Desktop\VDC#\BTN 10 SO 26\obj\Debug\BTN_10_SO_26.frmBaoCaoDSHDVaTTNhapHang.resources
+C:\Users\admin\Desktop\VDC#\BTN 10 SO 26\obj\Debug\BTN_10_SO_26.frmBaoCaoDSHoTenNCC.resources
+C:\Users\admin\Desktop\VDC#\BTN 10 SO 26\obj\Debug\BTN_10_SO_26.frmCaLam.resources
+C:\Users\admin\Desktop\VDC#\BTN 10 SO 26\obj\Debug\BTN_10_SO_26.frmChatLieu.resources
+C:\Users\admin\Desktop\VDC#\BTN 10 SO 26\obj\Debug\BTN_10_SO_26.frmKieuDang.resources
+C:\Users\admin\Desktop\VDC#\BTN 10 SO 26\obj\Debug\BTN_10_SO_26.frmMauSac.resources
+C:\Users\admin\Desktop\VDC#\BTN 10 SO 26\obj\Debug\BTN_10_SO_26.frmNuocSX.resources
+C:\Users\admin\Desktop\VDC#\BTN 10 SO 26\obj\Debug\BTN_10_SO_26.frmTheLoai.resources
+C:\Users\admin\Desktop\VDC#\BTN 10 SO 26\obj\Debug\BTN_10_SO_26.frmKhachHang.resources
+C:\Users\admin\Desktop\VDC#\BTN 10 SO 26\obj\Debug\BTN_10_SO_26.frmNhanVien.resources
+C:\Users\admin\Desktop\VDC#\BTN 10 SO 26\obj\Debug\BTN_10_SO_26.DMNoiThat.resources
+C:\Users\admin\Desktop\VDC#\10_IS11A02\bin\Debug\BTN 10 SO 26.exe
+C:\Users\admin\Desktop\VDC#\10_IS11A02\bin\Debug\BTN 10 SO 26.pdb
+C:\Users\admin\Desktop\VDC#\10_IS11A02\obj\Debug\BTN 10 SO 26.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\VDC#\10_IS11A02\obj\Debug\BTN 10 SO 26.csproj.ResolveComReference.cache
+C:\Users\admin\Desktop\VDC#\10_IS11A02\obj\Debug\BTN_10_SO_26.DMNoiThat.resources
+C:\Users\admin\Desktop\VDC#\10_IS11A02\obj\Debug\BTN_10_SO_26.frmBaoCaoDSHDVaTTBan.resources
+C:\Users\admin\Desktop\VDC#\10_IS11A02\obj\Debug\BTN_10_SO_26.frmBaoCaoDSHDVaTTNhapHang.resources
+C:\Users\admin\Desktop\VDC#\10_IS11A02\obj\Debug\BTN_10_SO_26.frmBaoCaoDSHoTenNCC.resources
+C:\Users\admin\Desktop\VDC#\10_IS11A02\obj\Debug\BTN_10_SO_26.frmBaoCaoDSSPBanDuoc.resources
+C:\Users\admin\Desktop\VDC#\10_IS11A02\obj\Debug\BTN_10_SO_26.frmCaLam.resources
+C:\Users\admin\Desktop\VDC#\10_IS11A02\obj\Debug\BTN_10_SO_26.frmChatLieu.resources
+C:\Users\admin\Desktop\VDC#\10_IS11A02\obj\Debug\BTN_10_SO_26.frmHoaDonDatHang.resources
+C:\Users\admin\Desktop\VDC#\10_IS11A02\obj\Debug\BTN_10_SO_26.frmHoaDonNhap.resources
+C:\Users\admin\Desktop\VDC#\10_IS11A02\obj\Debug\BTN_10_SO_26.frmCongViec.resources
+C:\Users\admin\Desktop\VDC#\10_IS11A02\obj\Debug\BTN_10_SO_26.frmKhachHang.resources
+C:\Users\admin\Desktop\VDC#\10_IS11A02\obj\Debug\BTN_10_SO_26.frmKieuDang.resources
+C:\Users\admin\Desktop\VDC#\10_IS11A02\obj\Debug\BTN_10_SO_26.frmMain.resources
+C:\Users\admin\Desktop\VDC#\10_IS11A02\obj\Debug\BTN_10_SO_26.frmMauSac.resources
+C:\Users\admin\Desktop\VDC#\10_IS11A02\obj\Debug\BTN_10_SO_26.frmNhaCungCap.resources
+C:\Users\admin\Desktop\VDC#\10_IS11A02\obj\Debug\BTN_10_SO_26.frmNhanVien.resources
+C:\Users\admin\Desktop\VDC#\10_IS11A02\obj\Debug\BTN_10_SO_26.frmNuocSX.resources
+C:\Users\admin\Desktop\VDC#\10_IS11A02\obj\Debug\BTN_10_SO_26.frmTheLoai.resources
+C:\Users\admin\Desktop\VDC#\10_IS11A02\obj\Debug\BTN_10_SO_26.frmTimKiemHDB.resources
+C:\Users\admin\Desktop\VDC#\10_IS11A02\obj\Debug\BTN_10_SO_26.frmTimKiemSanPham.resources
+C:\Users\admin\Desktop\VDC#\10_IS11A02\obj\Debug\BTN_10_SO_26.Properties.Resources.resources
+C:\Users\admin\Desktop\VDC#\10_IS11A02\obj\Debug\BTN 10 SO 26.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\VDC#\10_IS11A02\obj\Debug\BTN 10 SO 26.exe
+C:\Users\admin\Desktop\VDC#\10_IS11A02\obj\Debug\BTN 10 SO 26.pdb
